@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP SecureFlag Community Edition
 tags: training appsec secureflag
-level: 1
+level: 2
 type: tool
 pitch: Training platform for developers to learn and practice modern secure coding techniques through hands-on exercises.
 
