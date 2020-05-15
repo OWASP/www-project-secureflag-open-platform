@@ -11,3 +11,5 @@
 ### Code Repository
 * [Repositories](https://gitlab.com/secureflag-community)
 
+### Contacts
+* [community@secureflag.com](mailto://community@secureflag.com)
