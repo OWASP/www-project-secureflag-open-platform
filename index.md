@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP SecureFlag Community Edition
 tags: training appsec secureflag
 level: 1
-type: platform
+type: tool
 pitch: Training platform for developers to learn and practice modern secure coding techniques through hands-on exercises.
 
 ---
@@ -13,7 +13,7 @@ pitch: Training platform for developers to learn and practice modern secure codi
 
 <p align="center"><img src="assets/images/secureflag_community.png"/></p>
 
-
+<br/>
 
 The SecureFlag Community Edition is an open source training platform created for developers to learn and practice modern secure coding techniques through hands-on exercises. The platform helps develop secure coding skills through real-world challenges to ensure knowledge acquired during the course can be confidently and continuously applied in the real world.
 

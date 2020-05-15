@@ -1,17 +1,13 @@
 ### SecureFlag Community Edition Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+* Flagship Project
+* Tool Project
+* Version 1.0.14
+* Builder
+* Defender
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+### Links
+* [Site](https://community.secureflag.com/)
 
 ### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
+* [Repositories](https://gitlab.com/secureflag-community)
 
