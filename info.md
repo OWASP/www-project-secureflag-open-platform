@@ -1,7 +1,6 @@
 ### SecureFlag Community Edition Information
-* Flagship Project
+* Incubator Project
 * Tool Project
-* Version 1.0.14
 * Builder
 * Defender
 
