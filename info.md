@@ -6,7 +6,7 @@
 * Defender
 
 ### Links
-* [Site](https://community.secureflag.com/)
+* [Website](https://community.secureflag.com/)
 
 ### Code Repository
 * [Repositories](https://gitlab.com/secureflag-community)
