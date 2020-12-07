@@ -11,7 +11,7 @@ pitch: Training platform for developers to learn and practice modern secure codi
 
 
 
-<p align="center"><img src="assets/images/secureflag_logo.png"/></p>
+<p align="center"><img src="assets/images/secureflag-logo.png"/></p>
 
 <br/>
 
