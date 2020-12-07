@@ -47,7 +47,7 @@ The core components of the infrastructure are:
 * The [gateway](https://gitlab.com/secureflag-community/gateway): the remote desktop gateway that makes the exercise desktops accessible through a web browser.
 * A MySQL [database](https://gitlab.com/secureflag-community/database).
 
-Read further information regarding [how to install SecureFlag](https://community.secureflag.com/#/platform/installation).
+Read further information regarding [how to install SecureFlag](https://openplatform.secureflag.com/#/platform/installation).
 
 Users can run secure coding exercises through the portal by choosing from a catalog of topics in different languages and frameworks. 
 
@@ -57,7 +57,7 @@ Exercises run in isolated Docker containers that are disposed when the exercise 
 
 Exercises can be either be downloaded from the SecureFlag Hub or newly created with SecureFlag's SDK. The SDK enables the creation of Exercises to be published on the SecureFlag Exercise Hub for the entire community to use.
 
-Read more about exercise development in the [SDK](https://community.secureflag.com/#/sdk/setup-sfsdk) section.
+Read more about exercise development in the [SDK](https://openplatform.secureflag.com/#/sdk/setup-sfsdk) section.
 
 
 ## Functionalities
@@ -74,4 +74,4 @@ Read more about exercise development in the [SDK](https://community.secureflag.c
 - Get Stats at an Organisational, Regional, Team and User level to quickly identify gaps.
 
 
-### Discover more at [https://community.secureflag.com](https://community.secureflag.com).
+### Discover more at [https://openplatform.secureflag.com](https://openplatform.secureflag.com).
