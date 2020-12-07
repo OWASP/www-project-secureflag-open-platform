@@ -1,15 +1,15 @@
-### SecureFlag Community Edition Information
+### SecureFlag Open Platform Information
 * Incubator Project
 * Tool Project
-* Version 1.0.14
+* Version 1.0.21
 * Builder
 * Defender
 
 ### Links
-* [Website](https://community.secureflag.com/)
+* [Website](https://openplatform.secureflag.com/)
 
 ### Code Repository
 * [Repositories](https://gitlab.com/secureflag-community)
 
 ### Contacts
-* [community@secureflag.com](mailto://community@secureflag.com)
+* [community@secureflag.com](mailto://openplatform@secureflag.com)
