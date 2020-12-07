@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP SecureFlag Community Edition
-tags: training appsec secureflag
+title: OWASP SecureFlag Open Platform
+tags: training appsec securecoding secdevops secureflag
 level: 2
 type: tool
 pitch: Training platform for developers to learn and practice modern secure coding techniques through hands-on exercises.
@@ -11,11 +11,11 @@ pitch: Training platform for developers to learn and practice modern secure codi
 
 
 
-<p align="center"><img src="assets/images/secureflag_community.png"/></p>
+<p align="center"><img src="assets/images/secureflag_logo.png"/></p>
 
 <br/>
 
-The SecureFlag Community Edition is an open source training platform created for developers to learn and practice modern secure coding techniques through hands-on exercises. The platform helps develop secure coding skills through real-world challenges to ensure knowledge acquired during the course can be confidently and continuously applied in the real world.
+The SecureFlag Open Platform is an open source training platform created for developers to learn and practice modern secure coding techniques through hands-on exercises. The platform helps develop secure coding skills through real-world challenges to ensure knowledge acquired during the course can be confidently and continuously applied in the real world.
 
 <br/>
 
@@ -31,15 +31,15 @@ SecureFlag provides a gamified experience where users can assemble into teams, t
 
 Armed with their newly embedded capacities, developers can take part in time-boxed tournaments and engage a whole community of participants from within the same organisation, all competing to remediate security issues.
 
-## Who should use SecureFlag CE?
+## Who should use SecureFlag Open Platform?
 
-SecureFlag CE helps professionals who want to raise awareness about application security within their workplace by organising training sessions and tournaments. Additionally, professors and trainers can benefit by using the platform to teach practical secure programming in their courses. Even communities of security enthusiasts can adopt Secureflag CE to improve their application security skills in a methodical yet enjoyable way.
+SecureFlag Open Platform helps professionals who want to raise awareness about application security within their workplace by organising training sessions and tournaments. Additionally, professors and trainers can benefit by using the platform to teach practical secure programming in their courses. Even communities of security enthusiasts can adopt Secureflag Open Platform to improve their application security skills in a methodical yet enjoyable way.
 
-Whatever the need may be, SecureFlag CE enables you to deploy your own secure coding training platform in a matter of minutes, which can be used by you and everyone else in your organisation.
+Whatever the need may be, SecureFlag Open Platform enables you to deploy your own secure coding training platform in a matter of minutes, which can be used by you and everyone else in your organisation.
 
-## How does SecureFlag CE work?
+## How does SecureFlag Open Platform work?
 
-SecureFlag CE is a platform based on a micro-services architecture that runs on AWS. The entire infrastructure is created  in a completely automated fashion, from scratch, in less than 15 minutes.
+SecureFlag Open Platform is a platform based on a micro-services architecture that runs on AWS. The entire infrastructure is created  in a completely automated fashion, from scratch, in less than 15 minutes.
 
 The core components of the infrastructure are:
 
