@@ -12,4 +12,4 @@
 * [Repositories](https://gitlab.com/secureflag-community)
 
 ### Contacts
-* [community@secureflag.com](mailto://openplatform@secureflag.com)
+* [openplatform@secureflag.com](mailto://openplatform@secureflag.com)
